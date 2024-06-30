@@ -14,10 +14,10 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
   - AI-driven security analytics
 
 - 📫 **Contact Me:**
-  - Email: osama@example.com
-  - Twitter: [@0x4m4](https://twitter.com/0x4m4)
+  - Email: contact@0x4m4.com
   - LinkedIn: [Osama's Profile](https://www.linkedin.com/in/osama)
-  - Website: [m0x4m4.com](https://m0x4m4.com)
+  - Website: [0x4m4.com](https://0x4m4.com)
+  - Blog Page: [0x4m4.com](https://blog.0x4m4.com)
 
 ## 🛠️ Technical Skills
 
@@ -52,10 +52,13 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 
 ---
 
-## 📬 Connect
+## 📬 Socials
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0x4m4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0x4m4)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@0x4m4)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0x4m4)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://0x4m4.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/0x4m4)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.0x4m4.com)
+
