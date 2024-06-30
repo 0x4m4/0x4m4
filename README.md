@@ -2,9 +2,7 @@
 
 # Hi there, I'm Osama! 👋
 
-### Cyber Security Researcher | Professional Analyst | CTF Enthusiast
-
----
+### Cyber Security Researcher | Red Teamer | CTF Enthusiast
 
 ## 🧑‍💻 About Me
 
@@ -15,18 +13,11 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
   - Advanced malware analysis and reverse engineering
   - AI-driven security analytics
 
-- 💬 **Ask Me About:**
-  - Advanced penetration testing
-  - Incident response and digital forensics
-  - Threat intelligence and hunting
-
 - 📫 **Contact Me:**
   - Email: osama@example.com
   - Twitter: [@0x4m4](https://twitter.com/0x4m4)
   - LinkedIn: [Osama's Profile](https://www.linkedin.com/in/osama)
   - Website: [m0x4m4.com](https://m0x4m4.com)
-
----
 
 ## 🛠️ Technical Skills
 
