@@ -26,8 +26,6 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 - **Tools:** Burp Suite, Wireshark, Nmap, Metasploit, IDA Pro, Ghidra, Volatility, OSQuery
 - **Platforms:** AWS, Azure, Docker, Kubernetes, Splunk, ELK Stack, Kali Linux
 
----
-
 ## 🔍 Experience
 
 - **Senior Cyber Security Researcher**
@@ -48,9 +46,9 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 
 ## 📚 Publications
 
-- [Advanced Malware Analysis Techniques](https://m0x4m4.com/advanced-malware-analysis-techniques)
-- [Building AI-Driven Threat Detection Systems](https://m0x4m4.com/building-ai-driven-threat-detection-systems)
-- [Incident Response Best Practices](https://m0x4m4.com/incident-response-best-practices)
+- [Advanced Malware Analysis Techniques](https://blog.0x4m4.com/advanced-malware-analysis-techniques)
+- [Building AI-Driven Threat Detection Systems](https://blog.0x4m4.com/building-ai-driven-threat-detection-systems)
+- [Incident Response Best Practices](https://blog.0x4m4.com/incident-response-best-practices)
 
 ---
 
@@ -58,6 +56,5 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0x4m4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/osama)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://m0x4m4.com)
-
-![Footer](https://your-image-url.com/footer-image)
