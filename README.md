@@ -8,7 +8,7 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 
 - 📫 **Contact Me:**
   - Email: contact@0x4m4.com
-  - LinkedIn: [Osama's Profile](https://www.linkedin.com/in/osama)
+  - LinkedIn: [My Profile](https://www.linkedin.com/in/0x4m4)
   - Website: [0x4m4.com](https://0x4m4.com)
   - Blog Page: [0x4m4.com](https://blog.0x4m4.com)
 
