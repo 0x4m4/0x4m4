@@ -1,17 +1,10 @@
-![Header](https://your-image-url.com/header-image)
-
-# Hi there, I'm Osama! 👋
+# Hi there, I'm Muhammad Osama! 👋
 
 ### Cyber Security Researcher | Red Teamer | CTF Enthusiast
 
 ## 🧑‍💻 About Me
 
 I am an experienced Cyber Security Researcher with expertise in vulnerability assessment, threat intelligence, digital forensics, and penetration testing. My focus is on identifying and mitigating security risks, conducting thorough analyses, and producing detailed technical reports.
-
-- 🔭 **Projects:**
-  - Threat models for enterprise environments
-  - Advanced malware analysis and reverse engineering
-  - AI-driven security analytics
 
 - 📫 **Contact Me:**
   - Email: contact@0x4m4.com
