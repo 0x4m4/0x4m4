@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Osama! 👋
 
-### Cyber Security Researcher | Red Teamer | CTF Enthusiast
+### Cyber Security Researcher | Red Team Specialist | CTF Enthusiast | INFJ-T
 
 ## 🧑‍💻 About Me
 
@@ -10,7 +10,7 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
   - Email: contact@0x4m4.com
   - LinkedIn: [My Profile](https://www.linkedin.com/in/0x4m4)
   - Website: [0x4m4.com](https://0x4m4.com)
-  - Blog Page: [0x4m4.com](https://blog.0x4m4.com)
+  - Blog Page: [blog.0x4m4.com](https://blog.0x4m4.com)
 
 ## 🛠️ Technical Skills
 
