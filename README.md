@@ -32,7 +32,7 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 
 ## 📈 GitHub Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4m4&layout=compact&theme=black)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4m4&layout=compact&theme=vision-friendly-dark)
 
 ---
 
