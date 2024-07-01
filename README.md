@@ -32,7 +32,6 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 
 ## 📈 GitHub Highlights
 
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x4m4&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4m4&layout=compact&theme=radical)
 
 ---
