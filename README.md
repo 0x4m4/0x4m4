@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I am an experienced Cyber Security Researcher with expertise in vulnerability assessment, threat intelligence, digital forensics, and penetration testing. My focus is on identifying and mitigating security risks, conducting thorough analyses, and producing detailed technical reports.
+I am an experienced Cyber Security Researcher with expertise in vulnerability assessment, web exploitation, threat intelligence, digital forensics, and penetration testing. My focus is on identifying and mitigating security risks, conducting thorough analyses, and producing detailed technical reports.
 
 - 📫 **Contact Me:**
   - Email: contact@0x4m4.com
@@ -17,20 +17,20 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 - **Languages:** Python, C/C++, JavaScript, Assembly
 - **Frameworks:** Django, Flask, TensorFlow, PyTorch
 - **Tools:** Burp Suite, Wireshark, Nmap, Metasploit, IDA Pro, Ghidra, Volatility, OSQuery
-- **Platforms:** AWS, Azure, Docker, Kubernetes, Splunk, ELK Stack, Kali Linux
+- **Platforms:** AWS, Azure, Docker, Kubernetes, Splunk, Kali Linux
 
 ## 🔍 Experience
 
-- **Senior Cyber Security Researcher**
+- **Cyber Security Researcher**
   - Led red team engagements, custom exploitation tools, security assessments.
 - **Threat Intelligence Analyst**
   - Analyzed threats, developed reports, utilized OSINT, implemented SIEM use cases.
 - **CTF Organizer & Competitor**
-  - Designed and hosted CTFs, specialized in reverse engineering, cryptography, web security.
+  - Designed and hosted CTFs along with Technical Hands-on Workshops, specialized in reverse engineering, cryptography, web security.
 
 ---
 
-## 📈 GitHub Highlights
+## 📈 Highlights
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4m4&layout=compact&theme=vision-friendly-dark)
 
