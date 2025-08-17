@@ -36,14 +36,6 @@ I am an experienced Cyber Security Researcher with expertise in vulnerability as
 
 ---
 
-## 📚 Publications
-
-- [Advanced Malware Analysis Techniques](https://blog.0x4m4.com/advanced-malware-analysis-techniques)
-- [Building AI-Driven Threat Detection Systems](https://blog.0x4m4.com/building-ai-driven-threat-detection-systems)
-- [Incident Response Best Practices](https://blog.0x4m4.com/incident-response-best-practices)
-
----
-
 ## 📬 Socials
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0x4m4)
